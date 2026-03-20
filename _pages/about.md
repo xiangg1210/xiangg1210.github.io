@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Xiang Gao"
 excerpt: ""
 author_profile: true
 redirect_from: 
