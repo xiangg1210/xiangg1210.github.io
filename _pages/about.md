@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Master’s degree from Zhejiang University in March 2025, supervised by Prof. Lu Yu and Prof. Yiyi Liao. My research focuses on 3D reconstruction and compression, with an emphasis on lightweight 3D representations and efficient storage. I am also proficient in video coding theory and engineering technology, including H.264, H.265, etc. Rencently(2025.04-Now), I am work as a 3D Vison engineer at X Lab, Hesai Technology.
+I obtained my Master’s degree from Zhejiang University in March 2025, supervised by Prof. Lu Yu and Prof. Yiyi Liao. My research focuses on 3D reconstruction and compression, with an emphasis on lightweight 3D representations and efficient storage. I am also proficient in video coding theory and engineering technology, including H.264, H.265, etc. Rencently, I am work as a 3D Vison engineer at ByteDance Inc.
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 First Place, [SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track](https://www.4dv.ai/research/sig-asia2025-volumetric-video-challenges#dates) 
