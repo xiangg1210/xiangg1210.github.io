@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiang Gao"
-description              : "I obtained Master’s degree from Zhejiang University under Prof. Lu Yu and Yiyi Liao. I currently work at Hesai AI Lab and am also looking for PhD opportunities."
+description              : "I obtained Master’s degree from Zhejiang University under Prof. Lu Yu and Yiyi Liao. I currently work at ByteDance and am also looking for PhD opportunities."
 repository               : "xiangg1210/xiangg-zju.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ repository               : "xiangg1210/xiangg-zju.github.io"
 author:
   name             : "Xiang Gao"
   avatar           : "images/xiang.png"
-  bio              : "Graduate student at Zhejiang University. Now working at Hesai Technology"
+  bio              : "Graduate student at Zhejiang University. Now working at ByteDance Inc."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
